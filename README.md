@@ -64,7 +64,7 @@ This project demonstrates a production-ready Active Directory infrastructure usi
 
 1. **Clone this repository**
    ```bash
-   git clone https://github.com/yourusername/LAB05-Samba-AD.git
+   git clone https://github.com/nature46/LAB05-Samba-AD.git
    cd LAB05-Samba-AD
    ```
 
