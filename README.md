@@ -69,7 +69,7 @@ This project demonstrates a production-ready Active Directory infrastructure usi
    ```
 
 2. **Follow the implementation guide**
-   - Read: [`LAB05_Complete_Implementation_Guide.md`](LAB05_Complete_Implementation_Guide.md)
+   - Read: [`LAB05_Complete_Implementation_Guide.md`](Complete_Implementation_Guide.md)
    - Start with Sprint 1: Domain Controller Setup
    - Progress through all 4 sprints sequentially
 
@@ -83,7 +83,7 @@ This project demonstrates a production-ready Active Directory infrastructure usi
 ## 📚 Documentation
 
 ### Main Guide
-- **[LAB05 Complete Implementation Guide](LAB05_Complete_Implementation_Guide.md)** - Full step-by-step implementation (60+ pages)
+- **[LAB05 Complete Implementation Guide](Complete_Implementation_Guide.md)** - Full step-by-step implementation (60+ pages)
 
 ### Quick Reference
 - **Sprint 1**: Domain Controller Setup with Samba 4
@@ -200,7 +200,7 @@ sudo samba-tool group listmembers IT_Admins
 
 ## 🐛 Troubleshooting
 
-Common issues and solutions are documented in the [Troubleshooting Guide](LAB05_Complete_Implementation_Guide.md#troubleshooting-guide) section of the main documentation.
+Common issues and solutions are documented in the [Troubleshooting Guide](Complete_Implementation_Guide.md#troubleshooting-guide) section of the main documentation.
 
 **Quick fixes:**
 - **DNS not resolving**: Check `/etc/resolv.conf` has `nameserver 127.0.0.1`
